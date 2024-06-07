@@ -1,0 +1,58 @@
+
+9
+	README.md,8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+:
+
+.gitignore,a/5/a5cc2925ca8258af241be7e5b0381edf30266302
+9
+	readme.md,2/7/275d783e298228506068436512433d343feb52aa
+9
+	manifests,f/2/f29a7d31c1143e2c1e0e03bb9f83529feb8610fa
+O
+manifests/nginx-deployment.yaml,5/7/57735ed26c9b24f3ee44d647fbe396f754b9c20b
+H
+manifests/nginx-pod.yaml,b/3/b3e3e8166d384a25fd27e4d0bbbeeffea44bc689
+Y
+)manifests/nginx-pod-readiness-health.yaml,c/2/c23da82d6499506966d984d15c458098c3914b63
+O
+manifests/kuard-pod-reslim.yaml,f/7/f71519406bd339b4b27183c250090738822f50c9
+L
+manifests/kuard-pod-vol.yaml,9/b/9bf196fb7a94276cb3e5b5938e178b6b725d3e02
+g
+7terraform/kubernetes/azure/orn-polaris-dev/variables.tf,8/c/8c871731547a7c5792a0403b49ffafdf8f938353
+g
+7terraform/kubernetes/azure/orn-polaris-dev/providers.tf,b/6/b625bbb65258706220047496790f4d92ac4c870a
+b
+2terraform/kubernetes/azure/orn-polaris-dev/main.tf,1/2/1265459e68142695e534f15ee51633c6b4e5a295
+n
+>terraform/kubernetes/azure/orn-polaris-dev/.terraform.lock.hcl,d/2/d2e28f0ba52a718c4a14a7e6557f025b98629dc1
+^
+.manifests/fluentd-elasticsearch-daemonset.yaml,f/2/f23541b3ed4f03065d79ad32238c2dfed47a763c
+R
+"manifests/frontend-replicaset.yaml,c/6/c606f62df94e5bb564fcff5dee9e598671959083
+P
+ manifests/nginx-statefulset.yaml,f/9/f9ac7170cc0bdaab32ff5dfad2fc286ce1dda7ec
+B
+manifests/job.yaml,a/4/a4ee8e960c17040703404d2d6f2ebd19fb34dd07
+F
+manifests/cronjob.yaml,2/d/2d5155a713d45c0a5d648fa0e9690707359fad94
+H
+manifests/configmap.yaml,9/8/9824a5656ed9f8ce5228f4e6e79c3f8f8363fe00
+E
+manifests/secret.yaml,3/1/3156f5cb80d509185099112163c9e51a45969952
+L
+manifests/svc-clusterip.yaml,1/d/1d596ae4b8f9d528b0e3e4ae3a8f67c8c22ee0c2
+K
+manifests/svc-nodeport.yaml,e/6/e6b9fbeebdcd059f4495507a1a7a1144709f6954
+O
+manifests/svc-loadbalancer.yaml,b/8/b85c01497a14ee9cf48654a21c74a442f8da9613
+J
+manifests/svc-ingress.yaml,4/8/48a389b7fca9196bc661cabb77842dcf3c2e46ea
+B
+manifests/nsp.yaml,7/a/7a5f64b87c5eda5f273d7244586af9b371ca5fff
+M
+manifests/network-policy.yaml,6/4/6419b8f52d69d66328b7e2526b0d65df79fbabc1
+X
+(manifests/kuard-pod-liveness-health.yaml,f/3/f3e28b62200bec2bdb44e73ad58a24a25775d1de
+O
+manifests/nginx-pod-labels.yaml,5/7/5776421f1fdc1fa3e3f17ea4cdf4b5d0f95852c3
